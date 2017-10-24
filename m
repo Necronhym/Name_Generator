@@ -63,16 +63,19 @@ Gavrilo
 Gerasim
 Gligorije
 Gojko
+Gonzalo
 Goran
 Gordan
 Grgur
 Grigorije
+Haroon
 Hvalimir
 Ignjat
 Ignjatije
 Igor
 Ilarion
 Ilija
+Indriði
 Ivan
 Ivica
 Jadranko
@@ -87,6 +90,7 @@ Kirilo
 Kristijan
 Krsto
 Kuzman
+Kyriakos
 Lazar
 Lješ
 Ljubiša
@@ -125,6 +129,7 @@ Mladen
 Mojsije
 Momčilo
 Momir
+Nassim
 Nebojša
 Nedeljko
 Nemanja
@@ -134,6 +139,7 @@ Nikola
 Novak
 Obrad
 Obren
+Odalis
 Ognjen
 Ostoja
 Pavle
@@ -162,12 +168,14 @@ Ratko
 Repoš
 Risto
 Rodoljub
+Roque
 Ruvim
 Saša
 Sava
 Savatije
 Simeon
 Simo
+Simon
 Siniša
 Slaven
 Slaviša
@@ -190,6 +198,7 @@ Stracimir
 Strahinja
 Svetislav
 Svetozar
+Szabolcs
 Tanasko
 Teodor
 Teodosije
@@ -200,6 +209,7 @@ Tomislav
 Uglješa
 Uroš
 Vasilije
+Valéry
 Velibor
 Velichko
 Velimir
